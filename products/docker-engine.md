@@ -20,6 +20,12 @@ auto:
 
 # For EOL, see https://github.com/moby/moby/blob/master/project/BRANCHES-AND-TAGS.md
 releases:
+-   releaseCycle: "27.5"
+    releaseDate: 2025-01-13
+    eol: false
+    latest: "27.5.1"
+    latestReleaseDate: 2025-01-22
+
 -   releaseCycle: "27.4"
     releaseDate: 2024-12-09
     eol: false
@@ -65,8 +71,8 @@ releases:
 -   releaseCycle: "25.0"
     releaseDate: 2024-01-19
     eol: false
-    latest: "25.0.7"
-    latestReleaseDate: 2024-12-05
+    latest: "25.0.8"
+    latestReleaseDate: 2025-02-03
 
 -   releaseCycle: "24.0"
     releaseDate: 2023-05-16

@@ -29,9 +29,9 @@ releases:
     eol: 2033-01-11
     latestGdr: "16.0.1135.2"
     latestGdrLink: https://support.microsoft.com/help/5046861
-    latest: "16.0.4165.4 CU16"
-    latestReleaseDate: 2024-11-14
-    link: https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate16
+    latest: "16.0.4175.1 CU17"
+    latestReleaseDate: 2025-01-16
+    link: https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate17
 
 -   releaseCycle: "13.0-sp3"
     codename: SQL16
@@ -402,7 +402,7 @@ releases:
 -   releaseCycle: "6.0-sp3"
     codename: SQL95
     releaseLabel: "6.0 SP3"
-    releaseDate: 1995-06-13 # release date of SP3 unknwon, using intial relase date
+    releaseDate: 1995-06-13 # release date of SP3 unknown, using initial release date
     eoas: 1999-03-31
     eol: 1999-03-31
     latest: "6.0.151"

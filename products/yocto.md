@@ -24,16 +24,16 @@ releases:
     codename: 'Styhead'
     releaseDate: 2024-10-16
     eol: false
-    latest: "5.1.1"
-    latestReleaseDate: 2024-12-11
+    latest: "5.1.2"
+    latestReleaseDate: 2025-01-24
 
 -   releaseCycle: "5.0"
     codename: 'Scarthgap'
     lts: true
     releaseDate: 2024-04-29
     eol: 2028-04-30
-    latest: "5.0.5"
-    latestReleaseDate: 2024-11-20
+    latest: "5.0.6"
+    latestReleaseDate: 2025-01-14
 
 -   releaseCycle: "4.3"
     codename: 'Nanbield'
@@ -61,8 +61,8 @@ releases:
     lts: true
     releaseDate: 2022-04-25
     eol: 2026-04-27
-    latest: "4.0.23"
-    latestReleaseDate: 2024-11-27
+    latest: "4.0.24"
+    latestReleaseDate: 2025-01-31
 
 -   releaseCycle: "3.4"
     codename: 'Honister'

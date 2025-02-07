@@ -29,12 +29,20 @@ auto:
         eol: "End-of-support"
 
 releases:
+
+-   releaseCycle: "7.5"
+    lts: false
+    releaseDate: 2025-01-23
+    eol: 2026-05-12
+    latest: "7.5.0"
+    latestReleaseDate: 2025-01-23
+
 -   releaseCycle: "7.4"
     lts: true
     releaseDate: 2023-11-16
     eol: 2026-11-10
-    latest: "7.4.6"
-    latestReleaseDate: 2024-10-22
+    latest: "7.4.7"
+    latestReleaseDate: 2025-01-23
 
 -   releaseCycle: "7.3"
     releaseDate: 2022-11-09
